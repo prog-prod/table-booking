@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "1d52371b-d7e7-4e15-b1a3-086c9f77e9da",
+		"name": "booking-tables",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "10809411"
+	},
+	"item": [
+		{
+			"name": "Book a table",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Retrieve existings bookings",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Cancel a booking",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

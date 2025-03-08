@@ -54,3 +54,6 @@ API is now accessible at `http://localhost/api`.
     - Query Params: `?date=2025-03-07`
 - **Cancel a booking**
    - `DELETE /bookings/{booking_id}`
+
+
+#### **Or Import a file in Postman [booking-tables.postman_collection.json](booking-tables.postman_collection.json)**
